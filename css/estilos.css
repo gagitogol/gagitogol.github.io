@@ -48,3 +48,11 @@ font-size: 0.8em;
     background-color: white;
     padding: 0;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
