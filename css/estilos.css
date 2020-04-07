@@ -36,3 +36,11 @@ font-size: 0.8em;
 #post {
     padding: 0;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
