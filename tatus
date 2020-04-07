@@ -1,0 +1,94 @@
+[33mcommit 4c987b42788d239d7656b60fa776181db6fc787f[m[33m ([m[1;36mHEAD -> [m[1;32mheader[m[33m, [m[1;31morigin/header[m[33m, [m[1;31morigin/footer[m[33m, [m[1;32mfooter[m[33m)[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sun Apr 5 12:22:52 2020 -0300
+
+    una version con cifrado de llave
+
+[33mcommit 9683c95f712899092136687004a6c9235d7946cd[m
+Author: gagitogol <63172649+gagitogol@users.noreply.github.com>
+Date:   Sat Apr 4 20:40:43 2020 -0300
+
+    cambie el titulo del blog post
+    
+    porque puedo
+
+[33mcommit 36523638fecab97d319a39eef5a1068b07f896dd[m
+Merge: 68b39ba 50d664d
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 20:35:18 2020 -0300
+
+    Merge branch 'master' of https://github.com/gagitogol/hyperblog
+
+[33mcommit 50d664d4600ffe6373bf53b909d9f7655d085f37[m
+Author: gagitogol <63172649+gagitogol@users.noreply.github.com>
+Date:   Sat Apr 4 20:17:18 2020 -0300
+
+    Initial commit
+
+[33mcommit 68b39babcc582123a744ffe4c5a903066dd1cf14[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 20:04:51 2020 -0300
+
+    cambio de color
+
+[33mcommit 1b5314bd3d0b687b86eb1952a5a8cd2f7bffa0e6[m
+Merge: f016265 788474e
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 20:02:59 2020 -0300
+
+    solucione todos los problemas
+
+[33mcommit f016265182ac91c0f355df4b9b6cef476a45d030[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:55:52 2020 -0300
+
+    modifique el maestro cambiando la cabecera y el css
+
+[33mcommit 788474ef1f5976c744fb84cc047a4056360bab39[m[33m ([m[1;31morigin/cabecera[m[33m)[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:50:24 2020 -0300
+
+    modifique la cabecera y el color del texto
+
+[33mcommit 6c244cc6e6d465067c26622b4647241b974c7ce4[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:41:52 2020 -0300
+
+    volvi a arial
+
+[33mcommit ac1003319ec56ed96da043e7cd690f5e709e0610[m
+Merge: 289231c 01b5c47
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:37:57 2020 -0300
+
+    arreglo de fuente
+
+[33mcommit 289231c45098143f412ae20dcc53817840430e96[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:28:18 2020 -0300
+
+    agregado el contenido adicional
+
+[33mcommit 01b5c47a79eb45c2819f4c62248dcf30b8b75b27[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 19:24:48 2020 -0300
+
+    finalizada toda la cabecera
+
+[33mcommit 559bcdf5f05bae7e398706e51cd4d894d9f46ca5[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 00:06:33 2020 -0300
+
+    arreglo de cabecera
+
+[33mcommit 658e4bc4c97bc87c78bab67d6852139d97b754a8[m
+Author: juan <juanchi008@gmail.com>
+Date:   Sat Apr 4 00:00:02 2020 -0300
+
+    estructura inicial de la cabecera
+
+[33mcommit 1f0c8d6366ae284bdd50673c79e926f054930c3f[m
+Author: juan <juanchi008@gmail.com>
+Date:   Fri Apr 3 23:49:14 2020 -0300
+
+    arreglo que hubo que hacer1
