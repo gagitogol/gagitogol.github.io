@@ -1,4 +1,4 @@
-var cuadrito = document.getElementById("area_de_dibujo");
+var cuadrito = document.getElementById("area_dibujante");
 var button1 = document.getElementById("color1");
 var button2 = document.getElementById("color2");
 var button3 = document.getElementById("color3");
