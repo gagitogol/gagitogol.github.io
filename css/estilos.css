@@ -51,8 +51,8 @@ font-size: 0.8em;
 
 #footer
 {
-    background: #777;
+    background: blue;
     color: white;
     text-align: center;
-    padding: 1%;
+    padding: 0.5em%;
 }
