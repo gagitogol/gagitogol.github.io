@@ -8,3 +8,4 @@ emocionado por ver que saldra
 
 * creado por juanchi gago
 * es un programador en fase beta
+* le faltan todo tipo de conocimientos
